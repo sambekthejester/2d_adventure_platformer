@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MossAnimatorConttoler
+  m_Controller: {fileID: 9100000, guid: c464b53f8f70f7d49946381e2e96b2e4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 37061761a454d7540acd3fd17e38c492, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f24a4600bb054c54f9f94b252415a407, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 58c10fde42475d04686ff9b0bc50f24e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a2b57ae0a1a79024a8821385e6019968, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 08abcb30a83c9ab4c9be5eddfbff6a94, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 048d28870c5181746946a547be4c868b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fe7855727481a224b8d00661f06b39ee, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8f931d58343498743b852cd0d436fa37, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ecbd23cdb0dd5294cb79b2da10aac022, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 258c58d5d1cf84343a1fa0f2d8a6f1f7, type: 2}
